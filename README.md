@@ -33,9 +33,9 @@ JAVA IDEA 中文输入法悬浮窗不跟随光标的玄学 BUG 解决方案：[5
 JAVA IDEA 输入法悬浮窗不跟随光标的bug已经彻底解决
 
 
-  [1]: https://52geek.top/88/java-idea-%E8%BE%93%E5%85%A5%E6%B3%95%E6%82%AC%E6%B5%AE%E7%AA%97%E4%B8%8D%E8%B7%9F%E9%9A%8F%E5%85%89%E6%A0%87%E7%9A%84bug%E5%B7%B2%E7%BB%8F%E5%BD%BB%E5%BA%95%E8%A7%A3%E5%86%B3/
+  [1]: https://52geek.top/88/
   [2]: https://52geek.top/wp-content/uploads/2018/07/chrome20180702_102553.png
   [3]: https://52geek.top/wp-content/uploads/2018/07/idea64_2018-07-02_00-03-53.png
   [4]: https://52geek.top/wp-content/uploads/2018/07/cmd_2018-07-02_00-10-06.png
   [5]: http://p7fcrq2e4.bkt.clouddn.com/201818021119-idea64_2018-07-02_00-09-35.png
-  [6]: https://52geek.top/88/java-idea-%E8%BE%93%E5%85%A5%E6%B3%95%E6%82%AC%E6%B5%AE%E7%AA%97%E4%B8%8D%E8%B7%9F%E9%9A%8F%E5%85%89%E6%A0%87%E7%9A%84bug%E5%B7%B2%E7%BB%8F%E5%BD%BB%E5%BA%95%E8%A7%A3%E5%86%B3/
+  [6]: https://52geek.top/88/
